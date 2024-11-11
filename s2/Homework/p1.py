@@ -45,3 +45,5 @@ elif patron == 'some':
     print ('yes')
 elif patron == 'none':
     print ('no')
+
+
